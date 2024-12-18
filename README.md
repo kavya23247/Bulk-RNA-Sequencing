@@ -36,12 +36,10 @@ Ensure all tools are installed and available in your environment.
 
 5. **Feature Counting (featureCounts)**  
    Generates a count matrix by mapping the aligned reads to annotated genes.
-
+### Link to the grch38 dataset: https://drive.google.com/drive/folders/1ZjL2JTShAfl1AihBsMXjGuEnDo_2BhBG?usp=sharing
 ## How to Run the Project
 Navigate to the project directory:
 ```bash
 cd /storage/rushikesh23250/bioinfo/RNA_Seq_Bulk/RNA_Seq__demo/
-
-Navigate to the RNA_Seq_Bulk/RNA_Seq__demo/Script and run whole pipeline using command: ./RNASeqPipeline.sh
-
-### Link to the grch38 dataset: https://drive.google.com/drive/folders/1ZjL2JTShAfl1AihBsMXjGuEnDo_2BhBG?usp=sharing
+cd Script
+./RNASeqPipeline.sh # this command will run whole pipeline
