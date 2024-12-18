@@ -37,6 +37,7 @@ Ensure all tools are installed and available in your environment.
 5. **Feature Counting (featureCounts)**  
    Generates a count matrix by mapping the aligned reads to annotated genes.
 ### Link to the grch38 dataset: https://drive.google.com/drive/folders/1ZjL2JTShAfl1AihBsMXjGuEnDo_2BhBG?usp=sharing
+#### Note: Download above data folder and move it to the location: RNA_Seq__demo/HISAT2/
 ## How to Run the Project
 Navigate to the project directory:
 ```bash
