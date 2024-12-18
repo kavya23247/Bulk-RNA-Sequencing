@@ -41,6 +41,6 @@ Ensure all tools are installed and available in your environment.
 ## How to Run the Project
 Navigate to the project directory:
 ```bash
-cd /storage/rushikesh23250/bioinfo/RNA_Seq_Bulk/RNA_Seq__demo/
+cd RNA_Seq_Bulk/RNA_Seq__demo/
 cd Script
 ./RNASeqPipeline.sh # this command will run whole pipeline
